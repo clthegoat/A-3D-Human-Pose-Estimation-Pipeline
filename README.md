@@ -1,6 +1,7 @@
-# Machine Perception Project: A 3D Human Pose Estimation Pipeline
-**Group members**: [Le Chen](lechen@student.ethz.ch) and [Zimeng Jiang](zjiang@student.ethz.ch).
-You can find the report [**here**](Report.pdf)
+# A 3D Human Pose Estimation Pipeline
+This repo contains the code for our Machine Perception project. <br> Developed by [Le Chen](https://github.com/clthegoat) and [Zimeng Jiang](https://github.com/zimengjiang).
+
+You can find the report [**here**](Report.pdf).
 
 ### 1. Install dependencies
 Please install all dependencies.
