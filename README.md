@@ -1,5 +1,5 @@
 # Machine Perception Project: A 3D Human Pose Estimation Pipeline
-**Group members**: Le Chen (lechen@student.ethz.ch) and Zimeng Jiang (zjiang@student.ethz.ch).
+**Group members**: [Le Chen](lechen@student.ethz.ch) and [Zimeng Jiang](zjiang@student.ethz.ch).
 You can find the report [**here**](Report.pdf)
 
 ### 1. Install dependencies
