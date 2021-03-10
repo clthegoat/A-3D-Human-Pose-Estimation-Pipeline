@@ -21,7 +21,6 @@ pip install scipy
 pip install functools
 pip install pycopy-xml.etree.ElementTree
 ```
-(Sorry if there is something missing.) 
 
 ### 2. Set up the data root
 You need to follow directory structure of the `data_path` as below. Please modify **configuration.py** and put the TFRecord files in the corresponding directories!
